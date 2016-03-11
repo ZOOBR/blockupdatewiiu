@@ -6,14 +6,14 @@
 
 Но, пусть это даже немного параноидально, я не слишком доверяю в таких вопросах сторонним сервисам и поэтому решил подстраховаться и дополнительно заблокировать доступ к списку доменных имен, причастных к обновлениям. Список который предлагают на различных ресурсах в интернете собственно такой:
 
-**1. nus.c.shop.nintendowifi.net**
-2. nus.cdn.c.shop.nintendowifi.net
-3. nus.cdn.shop.wii.com
-4. nus.cdn.wup.shop.nintendo.net
-5. nus.wup.shop.nintendo.net
-6. c.shop.nintendowifi.net
-7. cbvc.cdn.nintendo.net
-8. cbvc.nintendo.net
+1. **nus.c.shop.nintendowifi.net**
+2. **nus.cdn.c.shop.nintendowifi.net**
+3. **nus.cdn.shop.wii.com**
+4. **nus.cdn.wup.shop.nintendo.net**
+5. **nus.wup.shop.nintendo.net**
+6. **c.shop.nintendowifi.net**
+7. **cbvc.cdn.nintendo.net**
+8. **cbvc.nintendo.net**
 
 Так как у меня на момент покупки Wii U у меня уже была New Nintendo 3ds и вопрос обновлений там пусть не такой острый как с Wii U, но тоже актуальный. Поэтому я собственно изучил сетевую активность 3ds и могу сделать кое-какие выводы. Так как адреса серверов Нинтендо для разных консолей вполне могут частично пересекаться то изучение сетевой активности 3ds вполне может пригодиться при перекрытии кислорода для нашей Wii U. 
 Если включить 3ds с настроенным подключением то консоль лезет на следующие доменные имена:
